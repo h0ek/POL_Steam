@@ -1,4 +1,4 @@
-PlayOnLinux script for Steam
+PlayOnLinux script for Steam and Steam x64
 
 This script will configure PlayOnLinux for [Steam](http://store.steampowered.com/)
 
